@@ -8,6 +8,5 @@ This repository contains implementations of fundamental machine learning algorit
 * Lasso Regression
 ### Tree-Based Models
 * Decision Tree
-* Random Forest
 ### Optimization Techniques
 * Gradient Descent
